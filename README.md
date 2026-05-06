@@ -1,6 +1,6 @@
 # Hi, I'm Benediktus Madika👋 
 # You can call me Ben 
-### Materials Science × Machine Learning for Energy Systems  
+### PhD Candidate in Materials Science & Engineering | AI/ML for Materials Optimization | Data Science & Mining Expertise
 
 ---
 
