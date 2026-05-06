@@ -1,4 +1,5 @@
-# Hi, I'm Benediktus 👋  
+# Hi, I'm Benediktus Madika👋 
+# You can call me Ben 
 ### Materials Science × Machine Learning for Energy Systems  
 
 ---
