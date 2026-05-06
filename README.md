@@ -1,9 +1,9 @@
 # Hi, I'm Benediktus 👋  
-### Materials Science × Machine Learning for Energy Systems  
+### PhD Candidate | AI and ML for Optimization | Data Science and Mining Expertise
 
-🔬 PhD Researcher @ KAIST  
-⚡ Focus: Battery Materials, MOFs, Materials Informatics  
-🧠 Interests: Data Imputation • Bayesian Optimization • LLMs for Science  
+🔬 PhD Researcher in Materials Science and Engineering @ KAIST  
+⚡ Focus: Battery Materials, Materials Informatics  
+🧠 Interests: Data Imputation • Bayesian Optimization • Large Language Model Application for Materials Science and Engineering
 
 ---
 
