@@ -122,7 +122,7 @@ My research focuses on:
 
 | Year | Title | Venue | Links |
 |------|------|------|------|
-| 2026 | (Your paper title) | Journal | [Link](#) |
+| 2025/7/25 | Artificial intelligence for materials discovery, development, and optimization | ACS nano | [https://pubs.acs.org/doi/10.1021/acsnano.5c04200](#) |
 | 2025 | (Your paper title) | Conference | [Link](#) |
 | 2025 | (Your paper title) | arXiv | [Link](#) |
 
