@@ -1,9 +1,8 @@
 # Hi, I'm Benediktus 👋  
-### PhD Candidate | AI and ML for Optimization | Data Science and Data Mining
 
 I am a materials-AI researcher who can connect experimental battery materials synthesis, LLM-assisted literature/data extraction, probabilistic ML, Bayesian optimization, and deployment-oriented AI tools.
 
-🔬 PhD Researcher in Materials Science and Engineering @ KAIST  
+🔬 PhD in Materials Science and Engineering @ KAIST  
 ⚡ Focus: Battery Materials, Materials Informatics  
 🧠 Interests: Data Imputation • Bayesian Optimization • Large Language Model Application for Materials Science and Engineering
 
